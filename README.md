@@ -10,8 +10,8 @@ The intention is to give m2pi participants a foundation for tackling the industr
 
 There are various exercises available in the [ProblemSession](./ProblemSession) directory, specifically
 
-  * [Car Pricing](./ProblemSession/CarPricing/ProblemSession.ipynb)
-  * [CruiseShips](./ProblemSession/CruiseShips/ProblemSession.ipynb)
+  * [Car Pricing](./ProblemSession/CarPricing/CarPricing.ipynb)
+  * [CruiseShips](./ProblemSession/CruiseShips/CruiseShip.ipynb)
   * [Flights](./ProblemSession/Flights/Flights.ipynb)
   * [Tour de France](./ProblemSession/TDF/TDF.ipynb)
 
