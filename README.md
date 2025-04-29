@@ -6,7 +6,7 @@ The notebooks in this directory were used to support the 2023 edition of the PIM
   * [pandas](./LectureNotes/Pandas.ipynb)
   * [matplotlib](./LectureNotes/Matplotlib.ipynb)
 
-The intention is to give m2pi participants a foundation for tackling the industry problems they will face in the following weeks of m2pi. 
+The intention is to give m2pi participants a foundation for tackling the industry problems they will face in the following weeks of m2pi.
 
 There are various exercises available in the [ProblemSession](./ProblemSession) directory, specifically
 
